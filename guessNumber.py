@@ -1,5 +1,5 @@
-import random
 # random is a module
+import random
 
 a = 1
 b= 100
