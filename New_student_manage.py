@@ -97,9 +97,11 @@ while True:
         Search()
 
     elif c==4:
-       update()        
-    elif c==5:
+        Update()
+       
+    elif c==3:
         delete()
+
     elif c==6:
         print("Exiting the program")
         break
